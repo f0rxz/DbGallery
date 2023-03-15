@@ -7,3 +7,9 @@
 # Scrolling possibility
 
 ![image](https://user-images.githubusercontent.com/45882101/225361471-af02e9ad-a52f-4760-a750-a1043e4693b0.png)
+
+# Db App
+
+You can add a button/image using Db App, after specifying the dependency on the parent object through par_id
+
+![image](https://user-images.githubusercontent.com/45882101/225362160-19a00889-e26e-4763-913e-ff8226e28abe.png)
